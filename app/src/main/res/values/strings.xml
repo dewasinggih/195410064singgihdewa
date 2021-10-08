@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">195410064.singgihdewa</string>
+    <string name="tugas11">Happy Birthday, Sam!</string>
+    <string name="happy_birthday_sam">Happy Birthday, Sam!</string>
+    <string name="from_emma">From Emma.</string>
+    <string name="todo">TODO</string>
 </resources>
